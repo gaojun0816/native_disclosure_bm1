@@ -1,8 +1,8 @@
 This benchmark is an AndroidStudio project.
 It includes features:
-    - w/o invocation back to Java method
-    - invocation to Java Android APIs
-    - mixed statical and dynamic registration of JNI functions.
++ w/o invocation back to Java method
++ invocation to Java Android APIs
++ mixed statical and dynamic registration of JNI functions.
 
 
 NOTE: this app need certain permission to obtain IMEI. For simplicity reason,
